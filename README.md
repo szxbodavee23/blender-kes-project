@@ -87,3 +87,7 @@ A statikus modellből egy látványos bemutató készült a Dope Sheet és a Gra
 *   A felesleges anyagok és teszt-modellek kitörlése a jelenetből.
 *   A 288 képkocka kirenderelése PNG formátumban.
 *   **Ráfordított idő:** 8 óra
+
+![CS2 Ködpenge Modell](assets/kep_001.png)
+![CS2 Ködpenge Modell](assets/kep_002.png)
+![CS2 Ködpenge Modell](assets/kep_003.png)
